@@ -12,7 +12,8 @@ Version: 4.11.0.RELEASE Build Id: 202106180608
 https://documenter.getpostman.com/view/3067079/TzefB3tJ
 
  
- 
+## FE URL :
+FE [https://github.com/rasyid46/inventory-fe-reactJS](https://github.com/rasyid46/inventory-fe-reactJS) to view it in the browser. 
 
 ## MacOS/Linux:
 
